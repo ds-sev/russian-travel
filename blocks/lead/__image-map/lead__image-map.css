@@ -1,0 +1,9 @@
+.lead__image-map {
+  position: absolute;
+  width: 95%;
+  margin: 0;
+  top: 14%;
+  transform: translate(-50%, 0);
+  left: 50%;
+  z-index: 100;
+}

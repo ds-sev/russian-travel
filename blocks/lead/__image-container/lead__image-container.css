@@ -1,0 +1,18 @@
+.lead__image-container {
+  position: relative;
+}
+@media screen and (max-width: 768px) {
+  .lead__image-container {
+    width: 100vw;
+    margin-left: -24px;
+  }
+}
+
+
+
+
+@media screen and (max-width: 320px) {
+  .lead__image-container {
+    margin-left: -16px;
+  }
+}
