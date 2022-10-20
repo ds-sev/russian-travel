@@ -22,6 +22,13 @@
 @import url(../blocks/lead/__image-map/lead__image-map.css);
 @import url(../blocks/lead/__image-container/lead__image-container.css);
 
+@import url(../blocks/intro/__container/intro__container.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__list-item/_font/intro__list-item_font_regular.css);
+
 
 
 
