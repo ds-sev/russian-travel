@@ -1,14 +1,16 @@
 .lead__image-container {
+  margin: 0 148px 8px;
   position: relative;
+  box-sizing: border-box;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1152px) {
   .lead__image-container {
-    width: 100vw;
-    margin-left: -24px;
+    margin: 0 48px 8px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 896px) {
   .lead__image-container {
-    margin-left: -16px;
+    margin: 0 0 8px;
   }
 }
+

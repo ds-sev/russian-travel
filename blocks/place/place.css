@@ -3,6 +3,7 @@
   position: relative;
   grid-template-columns: 47% 1fr;
   gap: 48px 40px;
+  font-family: 'Inter', sans-serif;
 }
 @media screen and (max-width: 1152px) {
   .place {
