@@ -1,18 +1,18 @@
 .wrapper {
   margin: 0 148px;
-  outline: 1px solid red;
+  outline: 1px solid rgb(21, 255, 0);
 }
-@media  screen and (max-width: 1024px) {
+@media  screen and (max-width: 1152px) {
   .wrapper {
     margin: 0 48px;
   }
 }
-@media  screen and (max-width: 768px) {
+@media  screen and (max-width: 896px) {
   .wrapper {
     margin: 0 24px;
   }
 }
-@media  screen and (max-width: 320px) {
+@media  screen and (max-width: 544px) {
   .wrapper {
     margin: 0 16px;
   }
