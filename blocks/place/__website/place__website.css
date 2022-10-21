@@ -1,0 +1,9 @@
+.place__website {
+  align-self: flex-end;
+  outline: 1px solid red;
+}
+@media screen and (max-width: 544px) {
+  .place__website {
+    margin: 0 16px;
+  }
+}
