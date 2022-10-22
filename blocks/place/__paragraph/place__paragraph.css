@@ -2,6 +2,9 @@
   margin: 0 0 26px;
   font-size: 18px;
   line-height: 163%;
+
+
+  outline: 1px solid red;
 }
 @media screen and (max-width: 896px) {
   .place__paragraph {
