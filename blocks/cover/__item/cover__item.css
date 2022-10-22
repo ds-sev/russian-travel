@@ -44,6 +44,11 @@
 @media screen and (max-width: 544px) {
   .cover__item {
     row-gap: 32px;
+    min-height: 350px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .cover__item {
     min-height: 200px;
   }
 }

@@ -6,6 +6,7 @@
   font-family: 'Inter', sans-serif;
   font-weight: 400;
 }
+
 @media screen and (max-width: 896px) {
   .footer {
     margin: 0 24px;
@@ -20,42 +21,3 @@
     gap: 48px;
   }
 }
-.footer__links {
-  margin: 0;
-  display: flex;
-  gap: 18px;
-}
-@media screen and (max-width: 730px) {
-  .footer__links {
-    flex-direction: column;
-    gap: 32px;
-  }
-}
-
-.footer__links-item {
-  width: fit-content;
-  font-size: 16px;
-  line-height: 1.12;
-  text-decoration: none;
-  color: #FFFFFF;
-}
-@media screen and (max-width: 730px) {
-  .footer__links_item {
-    font-size: 24px;
-    line-height: 1;
-  }
-}
-.footer__links-item:hover {
-  opacity: .8;
-}
-.footer__author {
-  margin: 0;
-  font-size: 14px;
-  line-height: 1.14;
-}
-@media screen and (max-width: 730px) {
-  .footer__author {
-    line-height: 1;
-  }
-}
-
