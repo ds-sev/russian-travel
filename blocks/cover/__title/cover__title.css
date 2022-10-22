@@ -6,10 +6,10 @@
   font-weight: 900;
   line-height: 1.06;
 }
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 767px) {
   .cover__title {
-    max-width: 400px;
-    font-size: 32px;
+    font-size: calc(32px + (40 + 40 * 0.7) * ((100vw - 320px) / 767));
     line-height: 1.09;
   }
 }
+
