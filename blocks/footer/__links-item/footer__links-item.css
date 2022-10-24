@@ -10,8 +10,8 @@
   opacity: .8;
 }
 
-@media screen and (max-width: 730px) {
-  .footer__links_item {
+@media screen and (max-width: 544px) {
+  .footer__links-item {
     font-size: 24px;
     line-height: 1;
   }

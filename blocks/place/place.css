@@ -5,16 +5,19 @@
   gap: 48px 40px;
   font-family: 'Inter', sans-serif;
 }
+
 @media screen and (max-width: 1152px) {
   .place {
     column-gap: 32px;
   }
 }
+
 @media screen and (max-width: 896px) {
   .place {
     column-gap: 28px;
   }
 }
+
 @media screen and (max-width: 544px) {
   .place {
     grid-template-columns: 1fr;

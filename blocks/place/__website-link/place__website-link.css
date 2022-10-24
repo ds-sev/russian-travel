@@ -2,8 +2,11 @@
   font-size: 18px;
   line-height: 1.22;
   font-weight: 400;
-  color: #FFFFFF;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  text-decoration: none;
 }
+
 .place__website-link:hover {
   opacity: .8;
 }

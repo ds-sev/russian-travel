@@ -13,6 +13,7 @@
     line-height: 1.1;
   }
 }
+
 @media screen and (max-width: 544px) {
   .lead__title {
     margin-bottom: 16px;

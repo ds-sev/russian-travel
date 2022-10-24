@@ -1,16 +1,19 @@
 .wrapper {
   margin: 0 148px;
 }
+
 @media  screen and (max-width: 1152px) {
   .wrapper {
     margin: 0 48px;
   }
 }
+
 @media  screen and (max-width: 896px) {
   .wrapper {
     margin: 0 24px;
   }
 }
+
 @media  screen and (max-width: 544px) {
   .wrapper {
     margin: 0 16px;

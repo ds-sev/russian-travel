@@ -5,12 +5,14 @@
   grid-template-rows: auto;
   row-gap: 92px;
 }
+
 @media screen and (max-width: 896px) {
   .content {
     row-gap: 88px;
     margin-bottom: 88px;
   }
 }
+
 @media screen and (max-width: 544px) {
   .content {
     row-gap: 64px;

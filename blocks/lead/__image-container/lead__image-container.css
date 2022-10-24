@@ -3,11 +3,13 @@
   position: relative;
   box-sizing: border-box;
 }
+
 @media screen and (max-width: 1152px) {
   .lead__image-container {
     margin: 0 48px;
   }
 }
+
 @media screen and (max-width: 896px) {
   .lead__image-container {
     margin: 0;

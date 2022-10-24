@@ -7,16 +7,19 @@
   gap: 16px;
   list-style: none;
 }
+
 @media screen and (max-width: 1152px) {
   .photo-grid__list{
     gap: 14px;
   }
 }
+
 @media screen and (max-width: 896px) {
   .photo-grid__list {
     gap: 16px;
   }
 }
+
 @media screen and (max-width: 544px) {
   .photo-grid__list {
     gap: 12px;

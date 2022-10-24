@@ -6,6 +6,7 @@
   font-weight: 900;
   line-height: 1.06;
 }
+
 @media screen and (max-width: 767px) {
   .cover__title {
     font-size: calc(32px + (40 + 40 * 0.7) * ((100vw - 320px) / 767));

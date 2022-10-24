@@ -1,13 +1,15 @@
-.lead__caption {
+.lead__caption_position {
   padding-top: 8px;
 }
+
 @media screen and (max-width: 896px) {
-  .lead__caption {
+  .lead__caption_position {
     padding-left: 24px;
   }
 }
+
 @media screen and (max-width: 544px) {
-  .lead__caption {
+  .lead__caption_position {
     padding-left: 16px;
   }
 }

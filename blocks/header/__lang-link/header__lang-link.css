@@ -2,12 +2,16 @@
   font-size: 24px;
   font-weight: 400;
   line-height: 1.17;
-  color: inherit;
+  color: #fff;
   text-decoration: none;
+}
+.header__lang-link:hover {
+  opacity: .8;
 }
 @media screen and (max-width: 544px) {
   .header__lang-link {
+    margin-top: 10px;
     font-size: 18px;
-    line-height: 1.85;
+    line-height: 1;
   }
 }

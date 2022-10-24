@@ -37,6 +37,7 @@
 @import url('../blocks/photo-grid/__list/photo-grid__list.css');
 @import url('../blocks/photo-grid/__list-item/photo-grid__list-item.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
+@import url('../blocks/photo-grid/__item/_shadow/photo-grid__item_shadow.css');
 /* PLACES */
 @import url('../blocks/places/places.css');
 @import url('../blocks/place/place.css');

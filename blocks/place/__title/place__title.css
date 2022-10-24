@@ -2,19 +2,20 @@
   margin: 0;
   font-size: 72px;
   font-weight: 900;
-  line-height: 106%;
-  outline: 1px solid red;
+  line-height: 1.06;
 }
+
 @media screen and (max-width: 896px) {
   .place__title {
     font-size: 42px;
-    line-height: 110%;
+    line-height: 1.1;
   }
 }
+
 @media screen and (max-width: 544px) {
   .place__title {
     margin: 0 16px;
     font-size: 32px;
-    line-height: 109%;
+    line-height: 1.09;
   }
 }
