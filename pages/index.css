@@ -8,11 +8,10 @@
 /* HEADER */
 @import url('../blocks/logo/logo.css');
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__container/header__container.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__lang/header__lang.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/header/__lang-link/header__lang-link_active.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
 /* SECTION-WRAPPER */
 @import url('../blocks/wrapper/wrapper.css');
 /* LEAD */
@@ -20,9 +19,7 @@
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
-@import url('../blocks/lead/__caption/_position/lead__caption_position.css');
 @import url('../blocks/lead/__image/lead__image.css');
-@import url('../blocks/lead/__image-map/lead__image-map.css');
 @import url('../blocks/lead/__image-container/lead__image-container.css');
 /* INTRO */
 @import url('../blocks/intro/intro.css');
@@ -31,7 +28,7 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');
 @import url('../blocks/intro/__list-item/intro__list-item.css');
-@import url('../blocks/intro/__list-item/_font/intro__list-item_font_regular.css');
+@import url('../blocks/text-highlight/__regular/text-highlight__regular.css');
 /* PHOTO-GRID */
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__list/photo-grid__list.css');
