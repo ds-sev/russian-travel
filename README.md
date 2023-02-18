@@ -1,5 +1,9 @@
 # Проект: Путешествие по России
+<img src="https://github.com/ds-sev/russian-travel/blob/main/images/Снимок%20экрана%202023-02-18%20в%2011.42.09.png" width="400px" align="right"> 
+
 [Посмотреть готовый проект](https://ds-sev.github.io/russian-travel/)
+
+
 
 ⚙️ **Описание проекта:**
 
